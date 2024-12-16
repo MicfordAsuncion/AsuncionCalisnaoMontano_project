@@ -18,7 +18,7 @@ is over when someone has all the letters needed or all lives have been lost.
 Final scores are displayed, identifying the winner or a tie.
 
 #Word Game
-#### Video Demo: <>
+#### Video Demo: <https://youtu.be/NqHqe0FU2O4?si=0rWi6UKS968ZeYzK>
 #### Description:
 The “Adivinar Palabras Game” is a word-guessing game developed using Python's tkinter library, providing an engaging, educational experience for players. The game allows users to guess words from categories like animals, things, and plants, offering both solo and multiplayer modes. It begins with a welcoming interface where players can choose to start the game, add words to the categories, or exit. Words are managed through category-specific CSV files, ensuring the game is easily expandable. Players can contribute their own words to the categories through the GUI, making the game highly customizable and interactive. The program ensures a smooth experience by dynamically checking and creating necessary files during initialization, and offering robust error handling for invalid inputs or missing data.
 
